@@ -5,7 +5,7 @@ This repository contains my personal dotfiles for Omarchy setup.
 **INFO:** The keybind are a little different from the originals, if you don't like them, just change them, they are located in hypr/bindings.conf.
 
 **SCREENSHOT**
-<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/0b03201e-7e62-4be5-a72d-6fd2bb438493" />
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/d6d90ce2-a226-4bd3-99eb-a0af55f1cfa8" />
 
 
 ## 🚀 Getting Started
