@@ -2,6 +2,8 @@
 
 This repository contains my personal dotfiles for Omarchy setup.
 
+**IMPORTANT:** My waybar config assumes you have NetworkManager and gazelle-tui installed, and it assumes your default terminal is kitty, so if it's not so, you make the change for yourself inside the config.
+
 **INFO:** The keybind are a little different from the originals, if you don't like them, just change them, they are located in hypr/bindings.conf.
 
 **SCREENSHOT**
